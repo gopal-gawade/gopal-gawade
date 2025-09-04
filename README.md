@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopal Gawade  
 
-<!--
-**gopal-gawade/gopal-gawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Frontend Developer* | Passionate about building modern, scalable, and user-friendly web applications.
+🌐 Check out my portfolio: [gopal-gawade.vercel.app](https://gopal-gawade.vercel.app)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💡 I specialize in *Next.js, React, Redux, TypeScript and JavaScript* for creating high-performance web apps.  
+- 🎨 Love designing sleek UIs with *TailwindCSS & Material UI*.  
+- 📚 Always exploring new tools in the frontend ecosystem.  
+- 🤝 Open to collaboration on exciting projects.  
+
+---
+
+## 🛠 Tech Stack & Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,materialui,html,css,git" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+- 💼 LinkedIn: [linkedin.com/in/gopal-gawade](https://linkedin.com/in/gopal-gawade)  
+- 🖥 GitHub: [github.com/gopal-gawade](https://github.com/gopal-gawade)
+---
