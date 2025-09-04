@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopal Gawade  
 
-🚀 *Frontend Developer* | Passionate about building modern, scalable, and user-friendly web applications.
+🚀 *Frontend Developer* | Passionate about building modern, scalable, and user-friendly web applications.<br/>
 🌐 Check out my portfolio: [gopal-gawade.vercel.app](https://gopal-gawade.vercel.app)  
 
 ---
