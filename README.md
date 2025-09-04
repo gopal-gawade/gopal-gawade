@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 - 💡 I specialize in *Next.js, React, Redux, TypeScript and JavaScript* for creating high-performance web apps.  
-- 🎨 Love designing sleek UIs with *TailwindCSS & Material UI*.  
+- 🎨 Love designing sleek UIs with *TailwindCSS, Shadcn/ui & Material UI*.  
 - 📚 Always exploring new tools in the frontend ecosystem.  
 - 🤝 Open to collaboration on exciting projects.  
 
